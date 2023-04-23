@@ -26,4 +26,7 @@ You can specify the specific interface to sniff for
 ```
 python3 sniffy.py 127.0.0.1 --more en0
 ```
-https://github.com/reversepwn/sniffy
+
+## People
+People who have developer/contributed to this project
+- [Kevin Alavik (aka puffer)](https://github.com/kevinalavik)
