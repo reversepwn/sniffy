@@ -6,7 +6,7 @@ A terminal IP sniffer
 ### Installing all the requirements
 
 ```bash 
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Running
