@@ -3,8 +3,12 @@ A terminal IP sniffer
 ## Usage
 ### Getting the code
 To get the actual code and get started with further installing run this:
-```git clone https://github.com/reversepwn/sniffy```
-```cd sniffy```
+```
+git clone https://github.com/reversepwn/sniffy
+```
+```
+cd sniffy
+```
 (you need to have git installed, check how to install git [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git))
 ### Installing all the requirements
 ```bash 
